@@ -1,2 +1,1 @@
-
-somethign
+print('hello')
